@@ -1,3 +1,3 @@
  # Academy
 
-This space suggests learning resources for different topics.
+This space suggests learning resources in different topics.
